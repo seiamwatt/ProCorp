@@ -11,5 +11,5 @@ import java.text.NumberFormat
 
 class ItemEntryViewModel(private val itemsRepository: ItemsRepository) : ViewModel() {
 
-    
+
 }
